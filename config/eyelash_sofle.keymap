@@ -98,7 +98,7 @@
         compatible = "zmk,conditional-layers";
 
         layer3 {
-            if-layers = <0 2>;
+            if-layers = <1 2>;
             then-layer = <3>;
         };
     };
